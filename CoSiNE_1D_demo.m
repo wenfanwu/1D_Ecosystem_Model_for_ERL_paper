@@ -1,6 +1,6 @@
 % ==================================================================================
 % This demo aims to study the response of ecosystem to different SPM conditions using a 1D ecosystem model.
-% It is also part of Wu et al. (2024, Weak local upwelling may elevate the risks of harmful algal blooms and hypoxia 
+% It is also part of Wu et al. (2023, Weak local upwelling may elevate the risks of harmful algal blooms and hypoxia 
 % in shallow waters during the warm season, Environ. Res. Lett. 18(11), 114031).
 %
 % Author Info: Wenfan Wu, Postdoc, Virginia Institute of Marine Science, William & Mary | wwu@vims.edu

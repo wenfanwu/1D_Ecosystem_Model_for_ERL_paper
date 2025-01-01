@@ -1,6 +1,6 @@
 # 1D_Ecosystem_Model_for_ERL_paper
 
-This one-dimensional (1D) ecosystem model is developed primarily based on the [CoSiNE module](https://ccrm.vims.edu/schismweb/CoSiNE_manual_ZG_v5.pdf) of SCHISM modeling system. It is designed to study the response of ecosystem to different SPM conditions using a 1D ecosystem model. It is also part of Wu et al. (2024, Weak local upwelling may elevate the risks of harmful algal blooms and hypoxia in shallow waters during the warm season, *Environ. Res. Lett.* 18(11), 114031).
+This one-dimensional (1D) ecosystem model is developed primarily based on the [CoSiNE module](https://ccrm.vims.edu/schismweb/CoSiNE_manual_ZG_v5.pdf) of SCHISM modeling system. It is designed to study the response of ecosystem to different SPM conditions using a 1D ecosystem model. It is also part of Wu et al. (2023, Weak local upwelling may elevate the risks of harmful algal blooms and hypoxia in shallow waters during the warm season, *Environ. Res. Lett.* 18(11), 114031).
 
 **CoSiNE_1D_main.m**: the core code of the ecosystem model.
 
