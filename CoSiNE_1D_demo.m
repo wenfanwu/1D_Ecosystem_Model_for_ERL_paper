@@ -34,7 +34,7 @@ InitCnd.mld_time = (1:nTimes)-2;
 InitCnd.mld = 5*ones(1, nTimes);   % mixed layer depth (5 m)
 
 InitCnd.bbl_time = (1:nTimes)-2;
-InitCnd.bbl = (Mobj.depmax-5)*ones(1, nTimes);  % bottom boundary layer thickness (3 m)
+InitCnd.bbl = (Mobj.depmax-5)*ones(1, nTimes);  % bottom boundary layer thickness (5 m)
 
 %% Step-3: Model Run
 TA = CoSiNE_1D_main(Mobj, InitCnd);
